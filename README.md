@@ -1,12 +1,10 @@
 # Understanding and Predicting User Satisfaction with Converstaional Recommender Systems
 
-_____________
-_____________
 
 This repository consist of resources created for the following paper:
 
 
-         **Understanding and Predicting User Satisfaction with Conversational Recommender Systems**
+        Understanding and Predicting User Satisfaction with Conversational Recommender Systems
   
 
 ## Dataset Description
@@ -23,16 +21,18 @@ The labels are relevanceK, interestingessK and overallK, where K is the turn num
 
 Each turn was annotated with atleast three annotators.
 
----
-        i.*Relevance* : 
-
-        ii. *Interestingness* :
-
-        iii. Turn-level Satisfaction
----
-
-
 
 ### Dialogue-level Annotation
 
-At the Dialogue level, a dialogues is annotated on four dialogue aspects namely: *understanding*, *task completion*, *interest arousal*, and *efficiency* and finally overall user satisafction for each turn is annotated.
+At the Dialogue level, a dialogues is annotated on four dialogue aspects namely: *understanding*, *task completion*, *interest arousal*, and *efficiency* and finally overall user satisafction for each turn is annotated. This data is in the file *annotated_dialogues.csv*
+
+#### Datset Statistics
+
+
+            | level        | number  | 
+            | ------------- |:-------------:| 
+            | Turn      | 600 | 
+            | Dialogue      | 200     | 
+
+
+
