@@ -1,4 +1,4 @@
-# Understanding and Predicting User Satisfaction with Converstaional Recommender Systems
+# Understanding and Predicting User Satisfaction with Conversational Recommender Systems
 
 
 This repository consist of resources created for the following paper:
@@ -26,7 +26,11 @@ Each turn was annotated with atleast three annotators.
 
 At the Dialogue level, a dialogues is annotated on four dialogue aspects namely: *understanding*, *task completion*, *interest arousal*, and *efficiency* and finally overall user satisafction for each turn is annotated. This data is in the file *annotated_dialogues.csv*
 
-#### Datset Statistics
+Each dialogue was annotated by atleast three annotated, and each dialogue has a unque *ConvId*. A dialogue annotated by multiple annotators share the same unique Id.
+
+Turns sampled from a dilaogue have the same unique Id.
+
+#### Dataset Statistics
 
 
 | level        | count           | 
