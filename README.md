@@ -29,10 +29,10 @@ At the Dialogue level, a dialogues is annotated on four dialogue aspects namely:
 #### Datset Statistics
 
 
-            | level        | number  | 
-            | ------------- |:-------------:| 
-            | Turn      | 600 | 
-            | Dialogue      | 200     | 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
