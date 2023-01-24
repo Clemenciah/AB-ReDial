@@ -28,7 +28,7 @@ At the Dialogue level, a dialogues is annotated on four dialogue aspects namely:
 
 Each dialogue was annotated by atleast three annotated, and each dialogue has a unque *ConvId*. A dialogue annotated by multiple annotators share the same unique Id.
 
-Turns sampled from a dilaogue have the same unique Id.
+Turns sampled from the same dialogue have share a unique Id with each other and the dialogue.
 
 #### Dataset Statistics
 
