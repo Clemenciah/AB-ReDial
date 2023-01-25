@@ -9,7 +9,7 @@ This repository consist of resources created for the following paper:
 
 ## Dataset Description
 
-This data consist of annotations at the turn and dialogue level.
+This data is as subset of the [ReDial dataset](https://redialdata.github.io/website/)with additional annotations at the turn and dialogue levels for several aspects. 
 
 ### Turn-level Annotation
 
